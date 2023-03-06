@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on my school project i.e. Adventure Chronicles(An adventure Game me and my colleagues are designing)
+🌱 I’m currently learning C#, JavaScipt, CSS , HTML5 , SQL
